@@ -1,6 +1,5 @@
 
-
-### To Run the code
+## To Run the code
 
 To run this project use below command on root directory of your terminal
 
