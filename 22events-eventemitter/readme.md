@@ -1,5 +1,5 @@
 
-## Exploring osmodule in nodejs
+## Exploring events and event emitter in nodejs
 
 
 
